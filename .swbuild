@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="build"><item key="creatorID" value=""/><item key="iconPrefix" value=""/><item key="executionType" value="2"/><item key="ceSubdirectory" value="DiceRoller"/><item key="copyProtected" value="false"/><item key="appTitle" value="DiceRoller"/><item key="replaceX" value="true"/><item key="mainWindow" value="ice.dice.diceroller.DRFrame"/><item key="version" value=""/></section>
